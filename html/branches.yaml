@@ -65,6 +65,7 @@ packetbeat:
   _docs_master: 8f42d0fe0c20d65c8f6965fef695fd807ef5a6c1
 x-plugins:
   _shield/docs/public_shield-1.0: a971b756267c7574e9a9e910712fa265ffc7e4aa
+  _shield/docs/public_shield-1.1: 0f231396b5c70a6670b2ba439f70bdfac86d29f7
   _shield/docs/public_shield-1.2: 6a54b3af7fec163d9495f6e7d84b19915ea1d0a5
   _shield/docs/public_shield-1.3: ed374a24df6a48b3767fb560825fb0afc257a3d6
   _watcher/docs_watcher-1.0: bc58b5bd285455aaa6d68bace2d29573ed58d6fe
